@@ -1,6 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&width=600&lines=Generative+AI+Engineer;Production+RAG+%7C+LLM+Inference+%7C+Vector+Search;Ex-Uber+%7C+Open+to+Remote+%2F+Hybrid+%2F+Onsite)](https://git.io/typing-svg)
+
 # Sai Anuhya Bandi
 
-`generative-ai-engineer` · `open to remote`
+![Profile Views](https://komarev.com/ghpvc/?username=anuhya3456&color=1D9E75&style=flat&label=Profile+Views)
+
+`generative-ai-engineer` · `open to remote · hybrid · onsite · no location preference`
 
 I build production LLM systems — RAG pipelines, inference APIs, vector search infrastructure, and the evaluation frameworks that keep them honest. Most recently at Uber, now looking for my next hard problem.
 
@@ -43,15 +47,14 @@ I care about the gap between "it works in a notebook" and "it works in productio
 
 ## Tech Stack
 
-**AI / LLM:** OpenAI · LangChain · Pinecone · FAISS · Hugging Face · RAG · Prompt Engineering · LLM Evaluation
+**AI / LLM**
+[![AI Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi&theme=light)](https://skillicons.dev)
 
-**Backend:** Python · FastAPI · Flask · Java · Spring Boot · Node.js · Express · REST APIs · Microservices
+**Backend & Data**
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,nodejs,kafka,postgres,mongodb,redis&theme=light)](https://skillicons.dev)
 
-**Data / Streaming:** Kafka · Spark · Airflow · PostgreSQL · MongoDB · Redis · DynamoDB · ETL Pipelines
-
-**Cloud / Infra:** AWS (EC2, S3, Lambda, SageMaker) · GCP · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD
-
-**Frontend:** React · Next.js · JavaScript
+**Cloud & Infra**
+[![Cloud Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -93,9 +96,26 @@ Modular eval harness for measuring retrieval relevance, response faithfulness, a
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=00000000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuhya3456&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuhya3456&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anuhya3456&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuhya3456&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,shell" />
+
+---
+
+## Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuhya3456/anuhya3456/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuhya3456/anuhya3456/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/anuhya3456/anuhya3456/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
