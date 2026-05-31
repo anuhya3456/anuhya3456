@@ -4,7 +4,7 @@
 
 I build production LLM systems — RAG pipelines, inference APIs, vector search infrastructure, and the evaluation frameworks that keep them honest. Most recently at Uber, now looking for my next hard problem.
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Remote-GenAI%20%7C%20AI%20Infra%20%7C%20ML%20Platform%20%7C%20Backend-0F6E56?style=flat&labelColor=E1F5EE)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-brightgreen?style=flat)
 
 ---
 
