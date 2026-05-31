@@ -1,78 +1,73 @@
-# Hi, I'm Sai Anuhya Bandi 👋
+# 💼 Professional Journey
 
-Generative AI Engineer and Software Engineer with 5+ years of experience building AI-powered applications, scalable backend systems, cloud-native platforms, and real-time data pipelines.
+## 🤖 GenAI Engineer | Uber
 
-## 🚀 About Me
+At Uber, I focused on building production-scale Generative AI systems that support intelligent rider and driver experiences. My work involved designing retrieval-augmented architectures, deploying LLM inference services, and building scalable backend systems capable of serving thousands of requests daily.
 
-- 🎓 MS in Computer Science, University of Alabama at Birmingham
-- 🤖 Specialized in Generative AI, LLM Applications, RAG Systems, and AI Infrastructure
-- ☁️ Experienced with AWS, Kubernetes, Docker, and Distributed Systems
-- 💻 Strong background in Python, Java, Spring Boot, FastAPI, Node.js, and React
-- 📊 Built real-time event processing pipelines using Kafka and Spark
-- 🔍 Passionate about AI Agents, Retrieval-Augmented Generation (RAG), and Production AI Systems
+### Highlights
 
-## 🛠 Tech Stack
+✅ Built RAG-based AI systems using LangChain, OpenAI APIs, FAISS, and Pinecone
 
-### Languages
-Python • Java • JavaScript • SQL
+✅ Developed FastAPI-based inference services handling high-volume production traffic
 
-### Frontend
-React.js • TypeScript • HTML5 • CSS3 • Next.js
+✅ Designed vector search infrastructure indexing millions of embeddings
 
-### Backend
-FastAPI • Flask • Spring Boot • Node.js • Express.js
+✅ Created Kafka-powered real-time data pipelines for contextual AI recommendations
 
-### AI & GenAI
-OpenAI API • LangChain • Hugging Face • RAG Pipelines • Prompt Engineering • FAISS • Pinecone
+✅ Implemented LLM evaluation frameworks to improve response quality and reduce hallucinations
 
-### Data & Streaming
-Kafka • Spark • Airflow • PostgreSQL • MySQL • MongoDB • Redis
+✅ Optimized retrieval performance through caching, batching, and asynchronous processing
 
-### Cloud & DevOps
-AWS • Docker • Kubernetes • Jenkins • GitHub Actions • CI/CD
+### Technologies
 
-## 💼 Experience
+Python • FastAPI • LangChain • OpenAI • Pinecone • FAISS • Redis • Kafka • AWS
 
-### GenAI Engineer | Uber
-- Built LLM-powered services handling 18K+ requests/day
-- Developed RAG systems using LangChain, OpenAI, and FAISS
-- Created Kafka pipelines processing 95K+ events/hour
-- Improved AI response quality through evaluation frameworks and retrieval optimization
+---
 
-### Software Engineer | Tata Consultancy Services
-- Developed Spring Boot microservices and enterprise APIs
-- Built large-scale ETL and data processing pipelines
-- Implemented cloud migration solutions on AWS and GCP
-- Automated enterprise workflows and monitoring systems
+## ⚙️ Software Engineer | Tata Consultancy Services
 
-### Software Engineer | Robosoft Technologies
-- Developed REST APIs using Node.js and Express
-- Implemented OAuth2 and JWT security
-- Containerized applications using Docker and Kubernetes
+Worked on enterprise-scale software platforms supporting monitoring, automation, cloud migration, IT operations, and backend application development.
 
-## Featured Projects
+My work ranged from building Spring Boot microservices and APIs to automating critical enterprise workflows through ServiceNow and cloud technologies.
 
-### 🤖 LLM-Powered Support Automation Platform
-- LangChain + OpenAI + FastAPI
-- RAG Architecture
-- FAISS Vector Search
-- Kafka Event Processing
+### Highlights
 
-### ⚡ Real-Time Event Processing Pipeline
-- Kafka Streaming
-- Spark Structured Streaming
-- Distributed Data Processing
-- ML Feature Engineering
+✅ Developed Java-based microservices powering enterprise applications
 
-## Certifications
+✅ Automated operational workflows through ServiceNow integrations
 
-- AWS Certified Developer Associate
-- Certified Kubernetes Administrator (CKA)
-- Oracle Certified Java Programmer
-- ServiceNow Application Developer
+✅ Built self-healing automation frameworks using PowerShell, Bash, and Java
 
-## Connect With Me
+✅ Led cloud migration initiatives involving multi-terabyte enterprise datasets
 
-📧 saianuhyabandi1415@gmail.com
+✅ Improved monitoring, alerting, and incident management processes
 
-🔗 LinkedIn: linkedin.com/in/saianuhyabandi
+✅ Designed integrations with LDAP, Active Directory, SAML, and enterprise authentication systems
+
+### Technologies
+
+Java • Spring Boot • Hibernate • ServiceNow • AWS • GCP • MongoDB • DynamoDB
+
+---
+
+## 🌐 Software Engineer | Robosoft Technologies
+
+Focused on backend engineering, API development, authentication systems, and cloud-native deployment strategies.
+
+Contributed to multiple customer-facing applications while improving reliability, security, and deployment efficiency.
+
+### Highlights
+
+✅ Designed RESTful APIs using Node.js and Express
+
+✅ Built authentication and authorization systems using OAuth2 and JWT
+
+✅ Developed automation scripts processing hundreds of thousands of records daily
+
+✅ Containerized applications with Docker and Kubernetes
+
+✅ Improved observability using centralized logging and monitoring systems
+
+### Technologies
+
+Node.js • Express.js • Docker • Kubernetes • PostgreSQL • MongoDB • ELK Stack
