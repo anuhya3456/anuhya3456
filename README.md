@@ -24,7 +24,7 @@ I care about the gap between "it works in a notebook" and "it works in productio
 
 ## Experience
 
-### Uber — Generative AI Engineer
+### Scale AI — Generative AI Engineer
 - Built RAG systems using LangChain, OpenAI, Pinecone, and FAISS for production rider/driver experiences
 - Developed FastAPI-based LLM inference services handling production traffic
 - Created Kafka pipelines feeding real-time data into vector search indexes
